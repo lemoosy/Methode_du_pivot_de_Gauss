@@ -1,0 +1,5 @@
+﻿  Pivot de Gauss v1.1.c
+C:\Users\Lemoosy\Desktop\Projets\C\Pivot de Gauss v1.1\Pivot de Gauss v1.1.c(95,78): warning C4020: 'subtract_line' : paramètres réels trop nombreux
+C:\Users\Lemoosy\Desktop\Projets\C\Pivot de Gauss v1.1\Pivot de Gauss v1.1.c(139,32): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lemoosy\Desktop\Projets\C\Pivot de Gauss v1.1\Pivot de Gauss v1.1.c(143,55): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Pivot de Gauss v1.1.vcxproj -> C:\Users\Lemoosy\Desktop\Projets\C\Pivot de Gauss v1.1\Debug\Pivot de Gauss v1.1.exe
